@@ -1,2 +1,2 @@
 # public
-用来学习
+用来git与github的学习
